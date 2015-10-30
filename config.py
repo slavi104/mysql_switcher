@@ -11,6 +11,6 @@ DATABASES = {
 		'USERNAME': 'root',
 		'PASSWORD': '',
 		'PORT': 3306,
-		'NAME': 'db_casetrek'
+		'NAME': 'db_local'
 	}
 }
