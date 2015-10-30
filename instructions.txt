@@ -1,0 +1,2 @@
+pip install pymysql
+Add "C:\xampp\mysql\bin" to PATH -> "http://dev.mysql.com/doc/mysql-windows-excerpt/5.1/en/mysql-installation-windows-path.html"
