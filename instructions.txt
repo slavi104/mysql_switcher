@@ -1,2 +1,5 @@
-pip install pymysql
-Add "C:\xampp\mysql\bin" to PATH -> "http://dev.mysql.com/doc/mysql-windows-excerpt/5.1/en/mysql-installation-windows-path.html"
+Installation:
+1. Download from: https://www.python.org/downloads/release/python-343/
+2. NB! In Customize Python 3.4.3 scroll down to "Add python.exe to Path" and select "Will be installed on local drive" option!
+3. Execute "pip install pymysql" in terminal.
+4. Add "...\xampp\mysql\bin" to PATH. Instructions how to do it -> http://dev.mysql.com/doc/mysql-windows-excerpt/5.1/en/mysql-installation-windows-path.html
